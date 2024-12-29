@@ -11,5 +11,6 @@
 "theme" : "السمه",
 "language" : "اللغه",
 "light" : "فاتح",
-"dark" : "داكن"
+"dark" : "داكن",
+"number_sebha" :"عدد السبحات"
 }

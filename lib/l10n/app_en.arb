@@ -11,5 +11,6 @@
 "theme" : "Theme",
 "language" : "Language",
 "light" : "Light",
-"dark" : "Dark"
+"dark" : "Dark",
+"number_sebha" :"Number of Sebha"
 }
